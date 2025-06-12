@@ -1,4 +1,3 @@
-# Trabalho_G2_Flutter
 App basico em flutter
 
 Organziação do arquivos dentro da pasta Lib
